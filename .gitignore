@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!email_app.py
+!requirements.txt
+
+# Ensure .gitignore itself is not ignored
+!.gitignore
