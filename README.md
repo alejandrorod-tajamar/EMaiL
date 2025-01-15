@@ -5,7 +5,7 @@ Para probar este proyecto, estos son los pasos a seguir:
 1. Con una terminal de `Git Bash`, **clona** el repositorio:
    
    ```bash
-   git clone https://github.com/alejandrorod-tajamar/OpenAI-Quickstart.git
+   git clone https://github.com/alejandrorod-tajamar/EMaiL.git
    ```
    
 2. Abre una terminal de `Command Prompt`.
@@ -13,7 +13,7 @@ Para probar este proyecto, estos son los pasos a seguir:
 3. Navega al **directorio del proyecto**:
    
    ```cmd
-   cd OpenAI-Quickstart
+   cd EMaiL
    ```
 
 4. Crea un **entorno virtual**:
